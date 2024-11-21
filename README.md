@@ -41,3 +41,53 @@ Les analyses ont été réalisées à partir des données internes de **BottleNe
 ---
 
 Ce projet illustre ma capacité à centraliser et analyser des données complexes pour produire des insights stratégiques, tout en proposant des solutions concrètes pour améliorer la gestion des ventes et détecter les incohérences.
+
+
+---
+
+---
+
+
+# 🍷 Analysis and Optimization of Online Sales
+
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to analyze and optimize online sales data for **BottleNeck**, a prestigious wine merchant. The goal was to merge and centralize data from multiple sources to provide better visibility into sales and stock management.
+
+---
+
+## 📚 Project Context
+**BottleNeck** sought to simplify stock management and improve the visibility of its online sales performance. At the time, data from the ERP and CMS systems were not aligned, complicating analyses. As a Data Analyst, my role was to reconcile these datasets, identify inconsistencies, analyze sales, detect price anomalies, and optimize performance.
+
+---
+
+## 🎯 Project Objectives
+- **Data Reconciliation**: Merge data from the ERP and online store (CMS) to create a unified dataset.  
+- **Revenue Calculation**: Analyze sales to calculate revenue by product and overall totals.  
+- **Price Anomaly Detection**: Identify and visualize outliers in pricing to highlight inconsistencies.  
+- **Documentation and Presentation**: Present the methodology and results in a Jupyter notebook.  
+
+---
+
+## 📦 Deliverables
+1. **Python Notebook**: Includes data processing, sales analysis, and price anomaly detection.  
+2. **Merged Dataset**: Combines information from the ERP and CMS systems for unified analysis.  
+3. **Visualizations**: Graphs illustrating sales performance and detected anomalies.  
+
+---
+
+## ✨ Skills Developed
+- Conducting univariate analysis to interpret data.  
+- Managing errors and inconsistencies in datasets.  
+- Classifying and processing various data types.  
+- Creating visualizations to clearly and effectively communicate results.  
+
+---
+
+## 📊 Data Used
+The analyses were conducted using internal data from **BottleNeck**:  
+- **erp.csv**: ERP export containing product references, prices, and stock statuses.  
+- **liaison.csv**: Mapping table linking ERP product IDs to web product references.  
+- **web.csv**: CMS data containing sales and product descriptions.  
+
+---
+
+This project demonstrates my ability to centralize and analyze complex datasets to generate strategic insights while proposing concrete solutions to improve sales management and detect inconsistencies.
